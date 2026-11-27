@@ -167,21 +167,3 @@ Set in `config.py` / overridable via environment variables:
 | [SUPPORT.md](SUPPORT.md) | Where to get help and what response time to expect |
 | [DISCLAIMER.md](DISCLAIMER.md) | Data responsibility, no-warranty, and no-financial-relationship terms |
 
-## Contributing
-
-Bug reports, feature requests, doc fixes, and pull requests are all welcome. This is a community-driven project maintained on a best-effort basis, and no contribution is too small. See [CONTRIBUTING.md](CONTRIBUTING.md) to get set up, and [SUPPORT.md](SUPPORT.md) for how to ask a question or report an issue.
-
-## Disclaimer & Data Responsibility
-
-Everything this app processes, your research queries, uploaded PDFs, and generated reports, is **100% your responsibility**. It runs on your own machine with your own API keys; nothing is sent anywhere except to whichever provider you've configured (an OpenAI-compatible API, Agnes AI, and/or your own local Ollama), plus DuckDuckGo/arXiv for search. Research history is stored locally and unencrypted in `data/history.json`. Please read the full [DISCLAIMER.md](DISCLAIMER.md) before using this with anything sensitive, and see [SECURITY.md](SECURITY.md) to report a vulnerability privately.
-
-## Support the Project
-
-If you find this useful, the best ways to support it are to **use it, report bugs, suggest features, or contribute code**; see [Contributing](#contributing) above. This project does **not** want or accept donations, sponsorships, or any other financial support. It's shared freely because it's useful, not for profit.
-
-## License
-
-[MIT](LICENSE)
-
-<p align="center">Made with ❤️ by Ahmad Mujtaba</p>
-"# Multi-Agent-AI-Research-Analyst" 
