@@ -163,11 +163,9 @@ Set in `config.py` / overridable via environment variables:
 |---|---|
 | [ARCHITECTURE.md](ARCHITECTURE.md) | Cited technical deep-dive: tech stack, subsystems, data flow, and inferred design decisions |
 | [USAGE.md](USAGE.md) | Step-by-step walkthrough of the app, plus a troubleshooting table |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | How to set up a dev environment and submit a change |
 | [SECURITY.md](SECURITY.md) | How to report a vulnerability privately |
 | [SUPPORT.md](SUPPORT.md) | Where to get help and what response time to expect |
 | [DISCLAIMER.md](DISCLAIMER.md) | Data responsibility, no-warranty, and no-financial-relationship terms |
-| [LICENSE](LICENSE) | MIT license terms |
 
 ## Contributing
 
